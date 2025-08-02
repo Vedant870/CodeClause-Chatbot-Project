@@ -99,4 +99,4 @@ Responses are non-AI, rule-based only
 👨‍💻 Author
 Vedant Kasaudhan
 CodeClause Intern – August 2025
-GitHub: @your_username
+GitHub: Vedant870
